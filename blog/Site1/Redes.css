@@ -1,0 +1,64 @@
+ .u-section-1 {
+  background-image: url("images/fondo-banner-almacenamiento-nube_53876-108506.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 495px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 205px 391px 60px 482px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 408px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 291px;
+    margin-left: 382px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 313px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 181px;
+    margin-left: 272px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 235px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 91px;
+    margin-left: 182px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 148px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 73px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1054px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 48px 0 60px;
+}

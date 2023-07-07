@@ -1,0 +1,63 @@
+ .u-section-1 {
+  background-image: url("images/sistema.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 460px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 176px 482px 60px 402px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 379px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 382px;
+    margin-left: 302px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 290px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 272px;
+    margin-left: 192px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 218px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 182px;
+    margin-left: 102px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 137px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 82px;
+    margin-left: 2px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1301px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 30px 0;
+}
